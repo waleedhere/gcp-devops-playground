@@ -1,1 +1,1 @@
-### This is a repo for GCP DevOps Implemenration
+### This is a repo for GCP DevOps Implementation
