@@ -9,7 +9,7 @@ steps:
 - name: "gcr.io/cloud-builders/gke-deploy"
   args:
   - run
-  - --filename:gke.yaml
+  - --filename:gke-dep.yaml
   - --image:gcr.io/$PROJECT_ID/gcpdevops
   - --location:us-central1-c
   - --cluster:cluster-1-gcp-project
